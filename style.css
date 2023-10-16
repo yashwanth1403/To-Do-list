@@ -13,13 +13,13 @@ html {
   min-height: 100vh;
   background-color: #363062;
   display: flex;
-  align-items: center;
   justify-content: center;
 }
 
 .todo-list {
   width: 40rem;
   height: fit-content;
+  margin-top: 10%;
   background-color: #ffffff;
   padding: 2rem;
   border-radius: 20px;
